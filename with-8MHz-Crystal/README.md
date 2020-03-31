@@ -82,3 +82,5 @@ Upload change the delays as you wish and upload the Sketch
 You are now ready with your Minimal Arduino, you can now integrate whatever you want with your Microcontroller and make Custom Arduinos and reduce the size and cost of your projects.
 
 *Also, while uploading sketches remember to use Arduino Pro or Pro Mini as the Board with Processor as ATmega328P (3.3V, 8Mhz) rather than Arduino UNO as we have used Pro Mini's bootloader because we have connected a 8MHz crystal.*
+
+You can also checkout my instructable regarding the same [here](https://www.instructables.com/id/Programming-ATmega328-With-Arduino-IDE-Using-8MHz-/)

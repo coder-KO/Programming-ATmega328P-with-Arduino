@@ -4,7 +4,7 @@ In this repo I'll be covering a step by step guide of programming an ATmega328P 
 I will cover two scenarios for Programming ATmega328P
 1) Using external 16 MHz Crystal
 2) Using external 8 MHz Crystal (Recommended for Low Power Application)
-The circuit diagrams will remain the same (except for the crystal), just a few steps will be different.
+The circuit diagrams will remain the same (except for the crystal), just a few steps will be different for both procedures.
 
 Here you can also read some basic information regarding the ATmega328P Microcontroller
 

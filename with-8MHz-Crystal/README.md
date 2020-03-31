@@ -51,7 +51,7 @@ Now open Arduino IDE
 
 8) Go to `Tools > Burn Bootloader`
 
-This may take a while, and you'll be shown *Done burning bootloader*.
+This may take a while, and you'll be shown *Done Burning Bootloader*.
 
 At this moment the LED on your breadboard and the default Arduino UNO LED will start blinking in sync.
 

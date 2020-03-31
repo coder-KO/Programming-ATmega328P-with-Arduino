@@ -7,9 +7,9 @@ I will cover two scenarios for Programming ATmega328P
 
 Here you can also read some basic information regarding the ATmega328P Microcontroller
 
-# ATmega328P:
-![ATmega328P](/imgs/ATmega328P.png "ATmega328P")
+# ATmega328P
  ATmega328P is a high-performance Microchip picoPower (this is what the P stands for) 8-bit AVR RISC-based microcontroller combines 32KB ISP flash memory with read-while-write capabilities, 1024B EEPROM, 2KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, a 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts.
+![ATmega328P](/imgs/ATmega328P.png "ATmega328P")
 
 
 By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.
@@ -36,3 +36,9 @@ By executing powerful instructions in a single clock cycle, the device achieves 
 |Low Power                          |Yes                            |
 
 [Source: Microchip](https://www.microchip.com/wwwproducts/en/ATmega328P)
+
+
+## ATmega328P Pinout
+![Pinout](/imgs/ATmega329P-Pinout.png "ATmega329P Pinout")
+
+#### You can find the complete official datasheet of ATmega328P [here](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)

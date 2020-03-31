@@ -3,6 +3,10 @@
 ## Initial Connections
 This basic setup will power up your IC and you'll be ready for bootloading.
 
+![Initial Connections](/Circuit-Diagrams/Initial-Connections.png "Initial Connections")
+
+|   ATmega328P      |                   on Breadboard                           |
+|-------------------|-----------------------------------------------------------|
 |Pin 1              | Vcc via 10K resistor                                      |
 |Pin 7 and Pin 20   | Vcc                                                       |
 |Pin 8 and Pin 22   | Gnd                                                       |
@@ -10,12 +14,13 @@ This basic setup will power up your IC and you'll be ready for bootloading.
 |Pin 9 and Pin10    |Gnd via 22pF Capacitors each                               |
 |Pin 19             |Gnd Via a series combination of 220 Ohm resistor and LED   |
 
-![Initial Connections](../Circuit-Diagrams/Initial-Connections.png "Initial Connections")
-
 
 ## Bootloading
 
 Microcontrollers are usually programmed through a programmer unless you have a piece of firmware in your microcontroller that allows installing new firmware without the need of an external programmer. This is called a bootloader.
+
+![Bootloading](/Circuit-Diagrams/Bootloading.png "Bootloading")
+
 
 **IMPORTANT** - This will be a one time process.
 
@@ -50,14 +55,15 @@ This may take a while, and you'll be shown *Done burning bootloader*.
 
 At this moment the LED on your breadboard and the default Arduino UNO LED will start blinking in sync.
 
-![Bootloading](../Circuit-Diagrams/Bootloading.png "Bootloading")
-
 
 ## Programming the IC
 
 You are now ready to Program your ATmega328P IC just like your arduino.
 
 **IMPORTANT** - After bootloading, remove the ATmega chip form the Arduino UNO because now we will be using the Arduino board just as an ISP Programmer (In System Programmer).
+
+![Programming](/Circuit-Diagrams/Programming.png "Programming")
+
 
 Now remove all the 4 connections made in the bootloading process and do the following connections
 

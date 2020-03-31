@@ -34,7 +34,7 @@ By executing powerful instructions in a single clock cycle, the device achieves 
 |Number of Comparators              |1                              |
 |Temperature Range (°C)             |-40 to 85                      |
 |Operating Voltage Range (V)        |1.8 to 5.5                     |
-|Pin Count                          |32                             |
+|Pin Count                          |28                             |
 |Low Power                          |Yes                            |
 
 [Source: Microchip](https://www.microchip.com/wwwproducts/en/ATmega328P)

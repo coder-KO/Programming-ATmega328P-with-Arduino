@@ -11,7 +11,7 @@ Here you can also read some basic information regarding the ATmega328P Microcont
  ATmega328P is a high-performance Microchip picoPower (this is what the P stands for) 8-bit AVR RISC-based microcontroller combines 32KB ISP flash memory with read-while-write capabilities, 1024B EEPROM, 2KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, a 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts.
 
 
-<img src="/imgs/ATmega328P.png" width="100">
+<img src="/imgs/ATmega328P.png" width="200">
 
 
 By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, balancing power consumption and processing speed.

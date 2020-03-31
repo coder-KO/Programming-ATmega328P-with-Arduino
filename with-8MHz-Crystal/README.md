@@ -19,7 +19,7 @@ This basic setup will power up your IC and you'll be ready for bootloading.
 
 Microcontrollers are usually programmed through a programmer unless you have a piece of firmware in your microcontroller that allows installing new firmware without the need of an external programmer. This is called a bootloader.
 
-![Bootloading](/Circuit-Diagrams/Bootloading.png "Bootloading")
+![Bootloading](../Circuit-Diagrams/Bootloading.png "Bootloading")
 
 
 **IMPORTANT** - This will be a one time process.

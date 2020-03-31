@@ -39,7 +39,6 @@ By executing powerful instructions in a single clock cycle, the device achieves 
 
 
 ## ATmega328P Pinout
-![Pinout](/imgs/ATmega329P-Pinout.png "ATmega329P Pinout")
+![Pinout](/imgs/ATmega328P-Pinout.png "ATmega329P Pinout")
 
-#### You can find the complete official datasheet of ATmega328P 
-[here](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+#### You can find the complete official datasheet of ATmega328P [here](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)

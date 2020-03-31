@@ -1,5 +1,5 @@
 # Programming-ATmega328P-with-Arduino
-===
+
 In this repo I'll be covering a step by step guide of programming an ATmega328P IC (The same micro-controller present on Arduino UNO) using Arduino IDE and an Arduino UNO as a programmer to make yourself a custom Arduino, to make your projects more scalable and cost-effective.
 I will cover two scenarios for Programming ATmega328P
 1) Using external 16 MHz Crystal
@@ -7,7 +7,7 @@ I will cover two scenarios for Programming ATmega328P
 
 Here you can also read some basic information regarding the ATmega328P Microcontroller
 
-# ATmega328P
+ATmega328P
 ---
  ATmega328P is a high-performance Microchip picoPower (this is what the P stands for) 8-bit AVR RISC-based microcontroller combines 32KB ISP flash memory with read-while-write capabilities, 1024B EEPROM, 2KB SRAM, 23 general purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, a 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. The device operates between 1.8-5.5 volts.
 
